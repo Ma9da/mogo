@@ -1,5 +1,5 @@
 let lan = document.getElementById('lan')
-
+let counter = 0
 
 // check language 
 lan.addEventListener('click', () => {
