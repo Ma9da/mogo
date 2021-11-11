@@ -109,8 +109,6 @@ border: 1px solid var(--orange) !important;
 .bg-yellow{
 	background-color: var(--yellow);
 }
-
-
 .header {
 	background: 
 	linear-gradient(
@@ -126,7 +124,6 @@ border: 1px solid var(--orange) !important;
 .header .carousel-item {
 	margin-right:0 !important;
 }
-
 .active-org {
 	position: relative;
 	color: var(--yellow) !important;
@@ -164,7 +161,6 @@ border: 1px solid var(--orange) !important;
 	top: 0;
 	left: 0;
 }
-
 .unique_img{
 	width: 50%;
 }
@@ -222,7 +218,6 @@ font-family: 'Montserrat', sans-serif !important;
 .blockquote-footer{
 	font-family:'Kaushan Script', cursive !important ;
 }
-
 .layer {
 	width: 100%;
 	height: 100%;
@@ -233,21 +228,17 @@ font-family: 'Montserrat', sans-serif !important;
 		rgba(243, 129, 129, 0.842), 
 		rgba(252, 227, 139, 0.74)
 	);
-  }
-
-  .accordion-button.text-uppercase{
-	  background-color: white !important;
-  }
-
-
-
-  .overlay__{
-	  position: absolute;
-	  width: 100%;
-	  height: 100%;
-	  top: 0;
-	  left: 0;
-	  background-image: linear-gradient(
+	}
+	.accordion-button.text-uppercase{
+		background-color: white !important;
+	}
+	.overlay__{
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		background-image: linear-gradient(
 		rgba(243, 129, 129, 0.842), 
 		rgba(252, 227, 139, 0.74)
 	);
